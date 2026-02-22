@@ -12,7 +12,7 @@
     "format:check": "prettier --check \"src/**/*.{ts,tsx}\""
   },
   "author": "",
-  "license": "ISC",
+  "license": "ISC ",
   "description": "",
   "dependencies": {
     "@emotion/react": "^11.14.0",
